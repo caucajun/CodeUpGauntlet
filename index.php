@@ -3,6 +3,8 @@
   require"db_connect.php";
   $sql = "SELECT page_id, page_title FROM pages;"
 
+  include("menu.php");
+
 ?>
 
 <!doctypte html>
