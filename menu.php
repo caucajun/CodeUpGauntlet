@@ -1,5 +1,6 @@
 <?php
 
+// Reusable menu for navigation
 
 ?>
 

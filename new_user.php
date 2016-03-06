@@ -1,6 +1,8 @@
+<?php
+
 // File for adding a new user to the database and setting a password for login credentials
 
-
+?>
 
 
 
