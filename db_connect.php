@@ -3,6 +3,6 @@
   if (!$link) {
     die('Could not connect: ' . mysql_error());
   }
-  echo 'Connected successfully';
+  echo 'Connected successfully to the ShittyReddit Database!  Impressive.  Most impressive.';
   mysql_close($link);
 ?>
