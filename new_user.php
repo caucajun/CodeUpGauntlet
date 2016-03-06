@@ -11,6 +11,6 @@
 </head>
 <body>
     <?php   include("menu.php");  ?>
- 	<p>This is my home page that uses a common menu to save me time when I add new pages to my website!</p>
+ 	<p>This page will allow new users to join our community by creating a username and password!</p>
 </body>
 </html>
