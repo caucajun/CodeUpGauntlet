@@ -9,7 +9,9 @@
 <<!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>
+		Welcome Back!
+	</title>
 </head>
 <body>
   <?php   include("menu.php");  ?>

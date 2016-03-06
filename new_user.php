@@ -9,10 +9,12 @@
 <<!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>
+		New Member?
+	</title>
 </head>
 <body>
     <?php   include("menu.php");  ?>
- 	<p>This page will allow new users to join our community by creating a username and password!</p>
+ 	<p>New Users can join our community by creating a username and password!</p>
 </body>
 </html>
