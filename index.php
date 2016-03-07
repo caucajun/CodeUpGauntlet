@@ -19,6 +19,7 @@
   <body>
     <?php   include("menu.php");
     		include("page.php");
+    		include("time.php");
     ?>
 
     <!-- Removing placeholder content ... added page.php frontpage title
