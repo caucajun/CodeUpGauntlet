@@ -18,7 +18,9 @@
 </head>
 
   <body>
+ <!--
     <?php   include("menu.php");  ?>
+ -->
     <p>Welcome to our Frontpage!</p>
   </body>
 
