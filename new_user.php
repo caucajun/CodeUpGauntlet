@@ -15,6 +15,6 @@
 </head>
 <body>
     <?php   include("menu.php");  ?>
- 	<p>New Users can join our community by creating a username and password!</p>
+ 	<p><br><h1>New User Signup</h1></b>New Users can join our community by creating a username and password!</p>
 </body>
 </html>
