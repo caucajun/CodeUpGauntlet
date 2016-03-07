@@ -21,7 +21,7 @@
  <!--
     <?php   include("menu.php");  ?>
  -->
-    <p>Welcome to our Frontpage!</p>
+    <p><h1>Welcome to our Frontpage!</h1></p>
   </body>
 
 </html>
