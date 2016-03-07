@@ -15,6 +15,6 @@
 </head>
 <body>
   <?php   include("menu.php");  ?>
- 	<p>This is where members can log in!</p>
+ 	<p>This is where members can log in... eventually!</p>
 </body>
 </html>
