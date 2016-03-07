@@ -20,7 +20,10 @@
     <?php   include("menu.php");
     		include("page.php");
     ?>
+
+    <!-- Removing placeholder content ... added page.php frontpage title
  	<p>This is my home page that uses a common menu to save me time when I add new pages to my website!</p>
+ 	-->
   </body>
 
 </html>
