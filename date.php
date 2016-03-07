@@ -10,11 +10,12 @@
 	<title></title>
 </head>
   <body>
+  	<br>
   	<?php
   	  date_default_timezone_set('America/Chicago');
-  	  <br>
       echo "Today is " . date("Y.m.d") . ;
-      </br>
     ?>
+    </br>
+
   </body>
 </html>
