@@ -20,6 +20,7 @@
     <?php   include("menu.php");
     		include("page.php");
     		include("time.php");
+    		include("date.php");
     ?>
 
     <!-- Removing placeholder content ... added page.php frontpage title
